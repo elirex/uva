@@ -3,6 +3,8 @@
 
 ### Problems
 [UVa101-The Blocks Problem](https://github.com/elirex/uva/blob/master/problems/UVa101_TheBlocksProblem.cpp)    
+[UVa514-Rails](https://github.com/elirex/uva/blob/master/problems/UVa514_Rails.cpp)    
+[UVa673-Parentheses Balance](https://github.com/elirex/uva/blob/master/problems/UVa673_ParenthesesBalance.cpp)    
 [UVa10370-Above Average](https://github.com/elirex/uva/blob/master/problems/UVa10370_AboveAverage.cpp)	
 [UVa10935-Throwing Cards Away I](https://github.com/elirex/uva/blob/master/problems/UVa10935_ThrowingCardsAwayI.cpp)	
 [UVa11716-Digital Fortress](https://github.com/elirex/uva/blob/master/problems/UVa11716_DigitalFortress.cpp)	
