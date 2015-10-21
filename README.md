@@ -3,7 +3,7 @@
 
 ### Problems
 [UVa101-The Blocks Problem](https://github.com/elirex/uva/blob/master/problems/UVa101_TheBlocksProblem.cpp)		
-[UVa271-Simple Syntax](https://github.com/elirex/uva/blob/master/problems/UVa271_SimpleSytax.cpp)		
+[UVa271-Simple Syntax](https://github.com/elirex/uva/blob/master/problems/UVa271_SimplySyntax.cpp)		
 [UVa514-Rails](https://github.com/elirex/uva/blob/master/problems/UVa514_Rails.cpp)    
 [UVa673-Parentheses Balance](https://github.com/elirex/uva/blob/master/problems/UVa673_ParenthesesBalance.cpp)		
 [UVa10107-What is the median?](https://github.com/elirex/uva/blob/master/problems/UVa10107_WhatIsTheMedian.cpp)	  	
