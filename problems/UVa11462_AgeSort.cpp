@@ -1,6 +1,7 @@
 /*
  * UVa 11462 Age Sort
  * Author: Elirex (Wang Sheng-Yuan)
+ * Version: 1.0
  * Date: 2015-11-02
  */
 #include <cstdio>
