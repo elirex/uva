@@ -1,3 +1,8 @@
+/*
+ * UVa 10077 The Stern-Brocot Number System 
+ * Author: Elirex (Wang Sheng-Yuan)
+ * Date: 2015-11-11
+ */
 #include <iostream>
 #include <cstdio>
 using namespace std;
