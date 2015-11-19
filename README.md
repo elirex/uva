@@ -9,6 +9,7 @@
 [UVa514-Rails](https://github.com/elirex/uva/blob/master/problems/UVa514_Rails.cpp)    
 [UVa673-Parentheses Balance](https://github.com/elirex/uva/blob/master/problems/UVa673_ParenthesesBalance.cpp)		
 [UVa755-487--3279](https://github.com/elirex/uva/blob/master/problems/UVa755_487--3279.cpp)		
+[UVa10041-Vito's Family](https://github.com/elirex/uva/blob/master/problems/UVa10041_VitosFamily.cpp)	  	
 [UVa10077-The Stern-Brocot Number System](https://github.com/elirex/uva/blob/master/problems/UVa10077_TheSternBrocotNumberSystem.cpp)	  	
 [UVa10107-What is the median?](https://github.com/elirex/uva/blob/master/problems/UVa10107_WhatIsTheMedian.cpp)	  	
 [UVa10370-Above Average](https://github.com/elirex/uva/blob/master/problems/UVa10370_AboveAverage.cpp)		
