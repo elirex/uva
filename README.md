@@ -7,6 +7,7 @@
 [UVa482-Permutation Arrays](https://github.com/elirex/uva/blob/master/problems/UVa482_PermutationArrays.cpp)    
 [UVa484-The Depeartment of Redundancy Department](https://github.com/elirex/uva/blob/master/problems/UVa484_TheDepartmentOfRedundancyDepartment.cpp)    
 [UVa514-Rails](https://github.com/elirex/uva/blob/master/problems/UVa514_Rails.cpp)    
+[UVa608-Counterfeit Dollar](https://github.com/elirex/uva/blob/master/problems/UVa608_CounterfeitDollar.cpp)    
 [UVa673-Parentheses Balance](https://github.com/elirex/uva/blob/master/problems/UVa673_ParenthesesBalance.cpp)		
 [UVa755-487--3279](https://github.com/elirex/uva/blob/master/problems/UVa755_487--3279.cpp)		
 [UVa10041-Vito's Family](https://github.com/elirex/uva/blob/master/problems/UVa10041_VitosFamily.cpp)	  	
